@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @yarafouad22
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning react.js
-
+hi iam Yara Fouad Creative developer 👩‍💻, problem solver 💡, innovator 🚀.
+Tech Skills: React.js ⚛️, TypeScript 🖥️, Sass 🎨.
+Mindset: Curious 🤔, determined 💪, always learning 📚
