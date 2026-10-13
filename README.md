@@ -1,3 +1,3 @@
  - Hi iam Yara Fouad Creative developer 👩‍💻, problem solver 💡, innovator 🚀.
- - Tech Skills: React.js & Next.js ⚛️, TypeScript 🖥️, Sass 🎨.
+ - Tech Skills: React.js & Next.js ⚛️, TypeScript 🖥️, Advanced JavaScript, Sass 🎨.
  - Mindset: Curious 🤔, determined 💪, always learning 📚
